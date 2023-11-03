@@ -1,0 +1,1 @@
+day 7 task completed Asia continent /region using Filter function population of less than 2 lakhs using Filter function capital, flag, using forEach function the total population of countries using reduce function the country that uses US dollars as currency
